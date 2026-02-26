@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25 01:55",
+  "updated_at": "2026-02-26 01:50",
   "items": [
     {
       "carrier": "Rakuten",
@@ -15,8 +15,8 @@
       "variants": [
         {
           "color": "コズミックオレンジ",
-          "stock_text": "在庫あり注文時期によってはお届けに2週間",
-          "stock_available": true
+          "stock_text": "入荷待ちお届け時期未定",
+          "stock_available": false
         }
       ]
     },
