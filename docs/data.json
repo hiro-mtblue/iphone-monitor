@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03 01:54",
+  "updated_at": "2026-03-04 01:48",
   "items": [
     {
       "carrier": "Rakuten",
@@ -15,8 +15,8 @@
       "variants": [
         {
           "color": "コズミックオレンジ",
-          "stock_text": "入荷待ちお届け時期未定",
-          "stock_available": false
+          "stock_text": "在庫あり注文時期によってはお届けに2週間",
+          "stock_available": true
         }
       ]
     },
@@ -91,7 +91,7 @@
       "variants": [
         {
           "color": "コズミックオレンジ",
-          "stock_text": "在庫ありお届けまで最短3日※1",
+          "stock_text": "在庫あり注文時期によってはお届けに2週間",
           "stock_available": true
         }
       ]
@@ -712,19 +712,6 @@
     },
     {
       "carrier": "UQ mobile",
-      "model": "iPhone 16e",
-      "storage": "128GB",
-      "price_gross": 112800,
-      "discount_official": 22000,
-      "program_exemption": 0,
-      "points_awarded": 0,
-      "price_effective_rent": 90800,
-      "price_effective_buyout": 90800,
-      "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
-    },
-    {
-      "carrier": "UQ mobile",
       "model": "iPhone 16",
       "storage": "128GB",
       "price_gross": 146000,
@@ -735,6 +722,19 @@
       "price_effective_buyout": 124000,
       "variants": [],
       "url": "https://www.uqwimax.jp/mobile/iphone/16/"
+    },
+    {
+      "carrier": "UQ mobile",
+      "model": "iPhone 16e",
+      "storage": "128GB",
+      "price_gross": 112800,
+      "discount_official": 22000,
+      "program_exemption": 0,
+      "points_awarded": 0,
+      "price_effective_rent": 90800,
+      "price_effective_buyout": 90800,
+      "variants": [],
+      "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
     }
   ]
 }
