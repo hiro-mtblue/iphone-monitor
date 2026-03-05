@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04 01:48",
+  "updated_at": "2026-03-05 01:51",
   "items": [
     {
       "carrier": "Rakuten",
@@ -12,13 +12,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 117392,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "在庫あり注文時期によってはお届けに2週間",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -31,13 +25,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 138392,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -50,13 +38,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 155896,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "入荷待ちお届け時期未定",
-          "stock_available": false
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -69,13 +51,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 190904,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "入荷待ちお届け時期未定",
-          "stock_available": false
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -88,13 +64,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 103956,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "在庫あり注文時期によってはお届けに2週間",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -107,13 +77,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 129888,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -126,13 +90,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 150392,
-      "variants": [
-        {
-          "color": "コズミックオレンジ",
-          "stock_text": "入荷待ちお届け時期未定",
-          "stock_available": false
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -145,13 +103,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 92948,
-      "variants": [
-        {
-          "color": "スカイブルー",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -164,13 +116,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 115904,
-      "variants": [
-        {
-          "color": "スカイブルー",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -183,13 +129,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 138888,
-      "variants": [
-        {
-          "color": "スカイブルー",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -202,13 +142,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 73408,
-      "variants": [
-        {
-          "color": "ブラック",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -221,13 +155,7 @@
       "discount_official": 0,
       "points_awarded": 0,
       "program_exemption": 98008,
-      "variants": [
-        {
-          "color": "ブラック",
-          "stock_text": "在庫ありお届けまで最短3日※1",
-          "stock_available": true
-        }
-      ]
+      "variants": []
     },
     {
       "carrier": "Rakuten",
@@ -712,19 +640,6 @@
     },
     {
       "carrier": "UQ mobile",
-      "model": "iPhone 16",
-      "storage": "128GB",
-      "price_gross": 146000,
-      "discount_official": 22000,
-      "program_exemption": 0,
-      "points_awarded": 0,
-      "price_effective_rent": 124000,
-      "price_effective_buyout": 124000,
-      "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/16/"
-    },
-    {
-      "carrier": "UQ mobile",
       "model": "iPhone 16e",
       "storage": "128GB",
       "price_gross": 112800,
@@ -735,6 +650,19 @@
       "price_effective_buyout": 90800,
       "variants": [],
       "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
+    },
+    {
+      "carrier": "UQ mobile",
+      "model": "iPhone 16",
+      "storage": "128GB",
+      "price_gross": 146000,
+      "discount_official": 22000,
+      "program_exemption": 0,
+      "points_awarded": 0,
+      "price_effective_rent": 124000,
+      "price_effective_buyout": 124000,
+      "variants": [],
+      "url": "https://www.uqwimax.jp/mobile/iphone/16/"
     }
   ]
 }
