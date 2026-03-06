@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05 01:51",
+  "updated_at": "2026-03-06 01:53",
   "items": [
     {
       "carrier": "Rakuten",
@@ -501,9 +501,9 @@
       "storage": "128GB",
       "price_gross": 214940,
       "discount_official": 44000,
-      "program_exemption": 110880,
+      "program_exemption": 88880,
       "points_awarded": 0,
-      "price_effective_rent": 60060,
+      "price_effective_rent": 82060,
       "price_effective_buyout": 170940,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
@@ -514,9 +514,9 @@
       "storage": "128GB",
       "price_gross": 240900,
       "discount_official": 44000,
-      "program_exemption": 121440,
+      "program_exemption": 99440,
       "points_awarded": 0,
-      "price_effective_rent": 75460,
+      "price_effective_rent": 97460,
       "price_effective_buyout": 196900,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
@@ -527,9 +527,9 @@
       "storage": "Unknown",
       "price_gross": 193930,
       "discount_official": 11000,
-      "program_exemption": 120384,
+      "program_exemption": 98384,
       "points_awarded": 0,
-      "price_effective_rent": 62546,
+      "price_effective_rent": 84546,
       "price_effective_buyout": 182930,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
@@ -539,11 +539,11 @@
       "model": "iPhone 17",
       "storage": "128GB",
       "price_gross": 152900,
-      "discount_official": 44000,
-      "program_exemption": 102432,
+      "discount_official": 43835,
+      "program_exemption": 87032,
       "points_awarded": 0,
-      "price_effective_rent": 6468,
-      "price_effective_buyout": 108900,
+      "price_effective_rent": 22033,
+      "price_effective_buyout": 109065,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
@@ -579,9 +579,9 @@
       "storage": "128GB",
       "price_gross": 133265,
       "discount_official": 44000,
-      "program_exemption": 89232,
+      "program_exemption": 67232,
       "points_awarded": 0,
-      "price_effective_rent": 33,
+      "price_effective_rent": 22033,
       "price_effective_buyout": 89265,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
@@ -650,6 +650,19 @@
       "price_effective_buyout": 90800,
       "variants": [],
       "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
+    },
+    {
+      "carrier": "UQ mobile",
+      "model": "iPhone 17e",
+      "storage": "256GB",
+      "price_gross": 119900,
+      "discount_official": 22000,
+      "program_exemption": 0,
+      "points_awarded": 0,
+      "price_effective_rent": 97900,
+      "price_effective_buyout": 97900,
+      "variants": [],
+      "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
     },
     {
       "carrier": "UQ mobile",
