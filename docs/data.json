@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-03-10 01:46",
+  "updated_at": "2026-03-11 01:47",
   "items": [
+    {
+      "carrier": "Rakuten",
+      "model": "iPhone 17e",
+      "storage": "256GB",
+      "price_gross": 109200,
+      "price_effective_rent": 54600,
+      "price_effective_buyout": 109200,
+      "url": "https://network.mobile.rakuten.co.jp/product/iphone/fee/",
+      "discount_official": 0,
+      "points_awarded": 0,
+      "program_exemption": 54600,
+      "variants": [
+        {
+          "color": "ソフトピンク",
+          "stock_text": "入荷待ちお届け時期未定",
+          "stock_available": false
+        }
+      ]
+    },
+    {
+      "carrier": "Rakuten",
+      "model": "iPhone 17e",
+      "storage": "512GB",
+      "price_gross": 147600,
+      "price_effective_rent": 73800,
+      "price_effective_buyout": 147600,
+      "url": "https://network.mobile.rakuten.co.jp/product/iphone/fee/",
+      "discount_official": 0,
+      "points_awarded": 0,
+      "program_exemption": 73800,
+      "variants": [
+        {
+          "color": "ソフトピンク",
+          "stock_text": "在庫ありお届けまで最短3日※1",
+          "stock_available": true
+        }
+      ]
+    },
     {
       "carrier": "Rakuten",
       "model": "iPhone 17 Pro Max",
