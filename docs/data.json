@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09 01:58",
+  "updated_at": "2026-04-10 02:11",
   "items": [
     {
       "carrier": "Rakuten",
@@ -629,11 +629,11 @@
       "model": "iPhone 16",
       "storage": "128GB",
       "price_gross": 133265,
-      "discount_official": 44000,
-      "program_exemption": 67232,
+      "discount_official": 32912,
+      "program_exemption": 78320,
       "points_awarded": 0,
       "price_effective_rent": 22033,
-      "price_effective_buyout": 89265,
+      "price_effective_buyout": 100353,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
@@ -691,16 +691,16 @@
     },
     {
       "carrier": "UQ mobile",
-      "model": "iPhone 17e",
-      "storage": "256GB",
-      "price_gross": 119900,
+      "model": "iPhone 16e",
+      "storage": "128GB",
+      "price_gross": 112800,
       "discount_official": 22000,
       "program_exemption": 0,
       "points_awarded": 0,
-      "price_effective_rent": 97900,
-      "price_effective_buyout": 97900,
+      "price_effective_rent": 90800,
+      "price_effective_buyout": 90800,
       "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
+      "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
     },
     {
       "carrier": "UQ mobile",
@@ -717,16 +717,16 @@
     },
     {
       "carrier": "UQ mobile",
-      "model": "iPhone 16e",
-      "storage": "128GB",
-      "price_gross": 112800,
+      "model": "iPhone 17e",
+      "storage": "256GB",
+      "price_gross": 119900,
       "discount_official": 22000,
       "program_exemption": 0,
       "points_awarded": 0,
-      "price_effective_rent": 90800,
-      "price_effective_buyout": 90800,
+      "price_effective_rent": 97900,
+      "price_effective_buyout": 97900,
       "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/16e/"
+      "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
     }
   ]
 }
