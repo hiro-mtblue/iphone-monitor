@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15 02:49",
+  "updated_at": "2026-05-16 02:38",
   "items": [
     {
       "carrier": "ahamo",
@@ -159,19 +159,6 @@
     },
     {
       "carrier": "UQ mobile",
-      "model": "iPhone 17e",
-      "storage": "256GB",
-      "price_gross": 119900,
-      "discount_official": 22000,
-      "program_exemption": 0,
-      "points_awarded": 0,
-      "price_effective_rent": 97900,
-      "price_effective_buyout": 97900,
-      "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
-    },
-    {
-      "carrier": "UQ mobile",
       "model": "iPhone 16e",
       "storage": "128GB",
       "price_gross": 112800,
@@ -195,6 +182,19 @@
       "price_effective_buyout": 124000,
       "variants": [],
       "url": "https://www.uqwimax.jp/mobile/iphone/16/"
+    },
+    {
+      "carrier": "UQ mobile",
+      "model": "iPhone 17e",
+      "storage": "256GB",
+      "price_gross": 119900,
+      "discount_official": 22000,
+      "program_exemption": 0,
+      "points_awarded": 0,
+      "price_effective_rent": 97900,
+      "price_effective_buyout": 97900,
+      "variants": [],
+      "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
     }
   ]
 }
