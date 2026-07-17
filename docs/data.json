@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 02:13",
+  "updated_at": "2026-07-17 02:19",
   "items": [
     {
       "carrier": "ahamo",
@@ -111,9 +111,9 @@
       "storage": "128GB",
       "price_gross": 273680,
       "discount_official": 0,
-      "program_exemption": 128040,
+      "program_exemption": 0,
       "points_awarded": 0,
-      "price_effective_rent": 145640,
+      "price_effective_rent": 273680,
       "price_effective_buyout": 273680,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
