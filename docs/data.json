@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 07:02",
+  "updated_at": "2026-08-28 08:50",
   "items": [
     {
       "carrier": "ahamo",
@@ -84,11 +84,11 @@
       "model": "iPhone 16",
       "storage": "128GB",
       "price_gross": 156266,
-      "discount_official": 44000,
-      "program_exemption": 90233,
+      "discount_official": 32681,
+      "program_exemption": 101552,
       "points_awarded": 0,
       "price_effective_rent": 22033,
-      "price_effective_buyout": 112266,
+      "price_effective_buyout": 123585,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
