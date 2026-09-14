@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 02:55",
+  "updated_at": "2026-09-14 03:08",
   "items": [
     {
       "carrier": "ahamo",
@@ -63,19 +63,6 @@
       "points_awarded": 0,
       "price_effective_rent": 22033,
       "price_effective_buyout": 134552,
-      "variants": [],
-      "url": "https://ahamo.com/products/iphone/"
-    },
-    {
-      "carrier": "ahamo",
-      "model": "iPhone 16 Pro Max",
-      "storage": "128GB",
-      "price_gross": 236940,
-      "discount_official": 0,
-      "program_exemption": 116160,
-      "points_awarded": 0,
-      "price_effective_rent": 120780,
-      "price_effective_buyout": 236940,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
