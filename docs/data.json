@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 03:07",
+  "updated_at": "2026-09-17 03:11",
   "items": [
     {
       "carrier": "ahamo",
@@ -83,12 +83,12 @@
       "carrier": "ahamo",
       "model": "iPhone 17",
       "storage": "128GB",
-      "price_gross": 178552,
+      "price_gross": 199793,
       "discount_official": 44000,
-      "program_exemption": 112519,
+      "program_exemption": 133760,
       "points_awarded": 0,
       "price_effective_rent": 22033,
-      "price_effective_buyout": 134552,
+      "price_effective_buyout": 155793,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
@@ -156,19 +156,6 @@
       "price_effective_buyout": 82280,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
-    },
-    {
-      "carrier": "UQ mobile",
-      "model": "iPhone 16",
-      "storage": "128GB",
-      "price_gross": 146000,
-      "discount_official": 22000,
-      "program_exemption": 0,
-      "points_awarded": 0,
-      "price_effective_rent": 124000,
-      "price_effective_buyout": 124000,
-      "variants": [],
-      "url": "https://www.uqwimax.jp/mobile/iphone/16/"
     },
     {
       "carrier": "UQ mobile",
