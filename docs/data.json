@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 03:25",
+  "updated_at": "2026-09-28 03:23",
   "items": [
     {
       "carrier": "ahamo",
@@ -31,12 +31,12 @@
       "carrier": "ahamo",
       "model": "iPhone 17e",
       "storage": "128GB",
-      "price_gross": 139810,
+      "price_gross": 158345,
       "discount_official": 44000,
-      "program_exemption": 73777,
+      "program_exemption": 92312,
       "points_awarded": 0,
       "price_effective_rent": 22033,
-      "price_effective_buyout": 95810,
+      "price_effective_buyout": 114345,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
@@ -96,12 +96,12 @@
       "carrier": "ahamo",
       "model": "iPhone 16",
       "storage": "128GB",
-      "price_gross": 156266,
-      "discount_official": 32681,
-      "program_exemption": 101552,
+      "price_gross": 166210,
+      "discount_official": 32857,
+      "program_exemption": 111320,
       "points_awarded": 0,
       "price_effective_rent": 22033,
-      "price_effective_buyout": 123585,
+      "price_effective_buyout": 133353,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
