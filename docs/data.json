@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 03:47",
+  "updated_at": "2026-10-01 03:54",
   "items": [
     {
       "carrier": "ahamo",
@@ -161,12 +161,12 @@
       "carrier": "UQ mobile",
       "model": "iPhone 17e",
       "storage": "256GB",
-      "price_gross": 127900,
+      "price_gross": 144800,
       "discount_official": 22000,
       "program_exemption": 0,
       "points_awarded": 0,
-      "price_effective_rent": 105900,
-      "price_effective_buyout": 105900,
+      "price_effective_rent": 122800,
+      "price_effective_buyout": 122800,
       "variants": [],
       "url": "https://www.uqwimax.jp/mobile/iphone/17e/"
     }
