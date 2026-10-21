@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-20 03:12",
+  "updated_at": "2026-10-21 03:08",
   "items": [
+    {
+      "carrier": "ahamo",
+      "model": "iPhone Duo",
+      "storage": "Unknown",
+      "price_gross": 436370,
+      "discount_official": 0,
+      "program_exemption": 174680,
+      "points_awarded": 0,
+      "price_effective_rent": 261690,
+      "price_effective_buyout": 436370,
+      "variants": [],
+      "url": "https://ahamo.com/products/iphone/"
+    },
     {
       "carrier": "ahamo",
       "model": "iPhone 18 Pro",
