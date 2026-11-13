@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 05:35",
+  "updated_at": "2026-11-13 04:52",
   "items": [
     {
       "carrier": "ahamo",
@@ -70,12 +70,12 @@
       "carrier": "ahamo",
       "model": "iPhone 17 Pro Max",
       "storage": "128GB",
-      "price_gross": 304920,
-      "discount_official": 44000,
-      "program_exemption": 120560,
+      "price_gross": 365310,
+      "discount_official": 11000,
+      "program_exemption": 244640,
       "points_awarded": 0,
-      "price_effective_rent": 140360,
-      "price_effective_buyout": 260920,
+      "price_effective_rent": 109670,
+      "price_effective_buyout": 354310,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
@@ -83,12 +83,12 @@
       "carrier": "ahamo",
       "model": "iPhone Air",
       "storage": "Unknown",
-      "price_gross": 212300,
+      "price_gross": 218284,
       "discount_official": 44000,
-      "program_exemption": 116600,
+      "program_exemption": 146168,
       "points_awarded": 0,
-      "price_effective_rent": 51700,
-      "price_effective_buyout": 168300,
+      "price_effective_rent": 28116,
+      "price_effective_buyout": 174284,
       "variants": [],
       "url": "https://ahamo.com/products/iphone/"
     },
